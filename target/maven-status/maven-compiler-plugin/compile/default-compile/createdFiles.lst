@@ -1,0 +1,10 @@
+userlist\model\UserData$1.class
+userlist\controller\UserController.class
+userlist\config\WebAppInitializer.class
+userlist\model\UserData.class
+userlist\util\ViewNames.class
+userlist\service\UserService.class
+userlist\util\Mappings.class
+userlist\service\UserServiceImpl.class
+userlist\config\WebConfig.class
+userlist\model\User.class
